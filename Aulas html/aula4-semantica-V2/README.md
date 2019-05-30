@@ -1,4 +1,4 @@
-# Exemeplo Aula 4
+# Exemplo Aula 4
 
 Nessa página foram colocados conceitos de:
 
